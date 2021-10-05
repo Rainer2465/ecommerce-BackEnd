@@ -1,0 +1,58 @@
+[
+	{
+		"id": "ebcc88fa-dc7b-4baa-bdad-383a4a84dc54",
+		"title": "title",
+		"description": "description",
+		"price": 11.95,
+		"main_img": "photo_ebcc88fa-dc7b-4baa-bdad-383a4a84dc54_main_men_tShirts_regularFit_blue_productImg.png",
+		"product_imgs": [
+			"photo_ebcc88fa-dc7b-4baa-bdad-383a4a84dc54_product_men_tShirts_regularFit_beige_productImg.png",
+			"photo_ebcc88fa-dc7b-4baa-bdad-383a4a84dc54_product_men_tShirts_regularFit_white_productImg.png",
+			"photo_ebcc88fa-dc7b-4baa-bdad-383a4a84dc54_product_men_tShirts_regularFit_yellow_productImg.png"
+		],
+		"categoryId": "001baa5b-f4ec-47b7-8a17-584e03741604",
+		"targetGroupId": "001baa5b-f4ec-47b7-8a17-523e03741604"
+	},
+	{
+		"id": "ebcc88fa-df7b-4bda-bdad-383a4a84dc54",
+		"title": "title2",
+		"description": "description2",
+		"price": 19.95,
+		"main_img": "photo_ebcc88fa-df7b-4bda-bdad-383a4a84dc54_main_men_tShirts_regularFit_rose_productImg.png",
+		"categoryId": "001baa5b-f4ec-47b7-8a17-584e03741604",
+		"targetGroupId": "001baa5b-f4ec-47b7-8a17-523e03741604"
+	},
+	{
+		"id": "ebcc11fa-dc7b-4baa-bdad-383a4a87dc54",
+		"title": "title3",
+		"description": "description3",
+		"price": 12.95,
+		"main_img": "photo_ebcc11fa-dc7b-4baa-bdad-383a4a87dc54_main_men_tShirts_regularFit_yellow_productImg.png",
+		"categoryId": "001baa5b-f4ec-47b7-8a17-584e03741604",
+		"targetGroupId": "9b4ace8b-7b68-47af-9472-db41a6f89423"
+	},
+	{
+		"id": "ebcc78fa-dc7b-4baa-bdad-783a4a84dc74",
+		"title": "title4",
+		"description": "description4",
+		"price": 24.95,
+		"categoryId": "9b4ace8b-7b68-47af-9472-db84a6f89423",
+		"targetGroupId": "9b4ace8b-7b68-47af-9472-db41a6f89423"
+	},
+	{
+		"id": "c0257fda-874e-40d8-a7f5-8adf8c84b467",
+		"title": "title5",
+		"description": "description5",
+		"price": 34.95,
+		"categoryId": "e469cb1c-422c-4343-a7b6-2d59eb33cad0",
+		"targetGroupId": "001baa5b-f4ec-47b7-8a17-523e03741604"
+	},
+	{
+		"id": "900b41d7-0237-4ecc-af9d-2fb50a08467c",
+		"title": "title6",
+		"description": "description6",
+		"price": 44.95,
+		"categoryId": "58718709-76b7-4dcf-9183-4f4b3eeb68e3",
+		"targetGroupId": "e469cb1c-422c-4343-a7b6-2d63eb33cad0"
+	}
+]

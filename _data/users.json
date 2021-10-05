@@ -1,0 +1,18 @@
+[
+	{
+		"id": "1b4ace8b-7b18-47af-1412-db84a6f89413",
+		"firstName": "firstName1",
+		"lastName": "lastName1",
+		"email": "email1@gmail.com",
+		"password": "123456",
+		"role": "user"
+	},
+	{
+		"id": "1b4ade8b-7b18-47df-1412-db84d6f89413",
+		"firstName": "firstName2",
+		"lastName": "lastName2",
+		"email": "email2@gmail.com",
+		"password": "123456",
+		"role": "publisher"
+	}
+]
